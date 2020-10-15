@@ -3,11 +3,11 @@
 
 void main() {
 	clrscr();
-		cout << "Nama	: Kevin R \n";
-		cout << "Nim	: 150010310 \n";
-		cout << "Alamat: Jl. Gn. Talang IIa No. 4 Denpasar \n";
+		cout << "Nama	: Starlabs \n";
+		cout << "Nim	: 1700 \n";
+		cout << "Alamat: Jl. Sehat \n";
 		cout << "Umur	: 21 \n";
-		cout << "TTL	: Malang, 2 Juli 1994 \n";
+		cout << "TTL	: Sidney, 4 Juni 1999 \n";
 		cout << "Hobi	: Baca Koran \n";
-		cout << "No.Hp	: 085739065927";
+		cout << "No.Hp	: 085739065887";
 }

@@ -8,8 +8,8 @@ void main ()
 
   cout<<"|       UTS PRAKTIKUM STRUKTUR DATA       |"<<endl;
   cout<<"|=========================================|"<<endl;
-  cout<<"|           KEVIN RYAN RINALDI            |"<<endl;
-  cout<<"|            150010310 | BC151            |"<<endl;
+  cout<<"|                   Nama                  |"<<endl;
+  cout<<"|               NIM | KELAS               |"<<endl;
   cout<<"|_________________________________________|"<<endl<<endl;
 
   for(k=0; k<8; k++)
